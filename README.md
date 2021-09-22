@@ -1,4 +1,4 @@
-# project_2_agenda_contatos
+# agenda_contatos
 
 A new Flutter project.
 
